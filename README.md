@@ -50,3 +50,9 @@ Your Name
 
 Version 1.0: Initial project setup.
 
+
+
+\## Development
+
+This branch is used to develop and test new project features.
+
